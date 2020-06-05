@@ -1,0 +1,13 @@
+body{
+    background-image: url(https://uc1950371d690c80a5120efd7633.previews.dropboxusercontent.com/p/thumb/AA0nAQpnAFRnXLMV_bzCUnpaigwPennZ2ab0Glt753m9gL3LXLWDu5CatWyJBGqaKs1v8ojnSdT4QdFKIqwHLwFo0EN5BQjcnkIHHr59CH-4RA4k_vXcdfbiCOdxowSBRZa38yqzYIwlMYLEreRPP1HU0iBu1v1p4pRWHDysCR0EN_FFhE_3VSxv6GPkSIxswa2E7mJ8y8ku0ZYKcBjusENJ7n5-P5KOqX8IoWBIBbF_lwXLZcTEmyPCczmpgxyoH60a3Q1dTE2n4Ij4W50vGuWqKquzXEo8ZNvHmQNd7WmNf7z5XPxgnfBdox3wjyIihD7yBpAXa6D7sA7ziekzZyT9u1EssF4AIzD6Y6EXMvIOI-vr9M-4sfqG3CBHq-qy4I221YN2U6_uXvE_PUSV9OUHxfVdxKTirsL5p9K3a72fIFn82apyYYbp6u_L7xgy3_2SW7t1jHNDxZiyVaIfsYwR/p.jpeg?size=1600x1200&size_mode=3);
+    background-repeat: inherit;
+    background-attachment: scroll;
+    background:(0, 128, 0, 0.3)
+}
+h2.head{
+    text-align: center;
+    color: rgb(93, 110, 14);
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background: rgba(171, 204, 82, 0.9);
+    padding: 5px; 
+}
